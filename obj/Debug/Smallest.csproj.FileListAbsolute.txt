@@ -1,0 +1,6 @@
+c:\users\casper\documents\visual studio 2015\Projects\Smallest\Smallest\bin\Debug\Smallest.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\Smallest\Smallest\bin\Debug\Smallest.exe
+c:\users\casper\documents\visual studio 2015\Projects\Smallest\Smallest\bin\Debug\Smallest.pdb
+c:\users\casper\documents\visual studio 2015\Projects\Smallest\Smallest\obj\Debug\Smallest.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2015\Projects\Smallest\Smallest\obj\Debug\Smallest.exe
+c:\users\casper\documents\visual studio 2015\Projects\Smallest\Smallest\obj\Debug\Smallest.pdb
